@@ -9,3 +9,6 @@ validation_client_name   "vrtk-validator"
 validation_key           "#{current_dir}/vrtk-validator.pem"
 chef_server_url          "https://api.chef.io/organizations/vrtk"
 cookbook_path            ["#{current_dir}/../cookbooks"]
+cookbook_copyright       "tech-kitchen"
+cookbook_license         "apachev2"
+cookbook_email           "machipeddy9@gmail.com"
